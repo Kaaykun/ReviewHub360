@@ -1,0 +1,7 @@
+pytest
+pylint
+ipdb
+jupyterlab
+numpy
+pandas
+google-services-api
